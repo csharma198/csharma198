@@ -2,7 +2,7 @@
 - 👀 I’m interested in software developer
 - 🌱 I’m currently learning Spring and Hibernate Framework
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me - chandeshwarsharma198@gmail.com
 
 <!---
 csharma198/csharma198 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
