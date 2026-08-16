@@ -74,8 +74,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=csharma198&show_icons=true&theme=gruvbox" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=csharma198&layout=compact&theme=tokyonight" width="47%" />
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=csharma198&show_icons=true&theme=gruvbox"
+    width="47%"
+  />
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=csharma198&layout=compact&theme=tokyonight"
+    width="47%"
+  />
 </p>
 
 ---
